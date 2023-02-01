@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+p{
+    color: white;
+    width: 200px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    padding: 10px;
+}
+.ten{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.nine{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.eight{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.seven{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.six{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.five{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.four{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.three{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
+.two{
+    height: 20px;
+    width: 500px;
+    background-color: darkcyan;
+    align-self:center;
+    margin: 0 auto;
+}
