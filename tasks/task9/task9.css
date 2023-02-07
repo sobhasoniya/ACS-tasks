@@ -1,0 +1,15 @@
+table {
+    border: 1px solid;
+}
+th, td {
+    border: 1px solid;
+}
+.am{
+    background-color: rgb(240, 233, 124);
+}
+.evng{
+    background-color: rgb(143, 210, 76);
+}
+.pm{
+    background-color: rgb(167, 113, 194);
+}

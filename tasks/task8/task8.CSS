@@ -1,0 +1,23 @@
+*{
+     background-color: rgb(163, 159, 159);
+     
+
+}
+table{
+    width: 50%;
+}
+
+table,tr,th,td{
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: medium;
+    text-align: center;
+    padding: auto;
+}
